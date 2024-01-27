@@ -49,3 +49,6 @@ See more subscribe options:
 ```bash
 go run main.go subscribe -h
 ```
+
+## Extra
+![Alt Text](https://github.com/fikri240794/nsq-simple-pubsub/blob/main/nsq-simple-pubsub.gif)
